@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning AI Hacking , Computer Vision, Information Security
+🌱 I’m interested in AI Hacking ( Security of AI ) , Computer Vision, Information Security ( AI of Security ) 
 
 > Award
 > dfd
