@@ -3,7 +3,7 @@
 🌱 I’m interested in AI Hacking ( Security of AI ) , Computer Vision, Information Security ( AI of Security ) 
 
 <details>
-<summary> 🏆 Award</summary>
+<summary> 🏆 Award / Certificate </summary>
 <div markdown="1">       
 
 ### 2018
