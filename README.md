@@ -57,17 +57,41 @@ major
 <div markdown="1">       
     
 ### 2019
-    WebHacking Project
-        Wargame 
-
-    2019 세종대학교 해커톤
-        * 
+[JAVA, 오픈소스 프로젝트] 퍼즐게임 어플 만들기 
+안드로이드 스튜디오로 앱을 만들며 오픈소스와 git 사용법에 대해서 알게되었습니다. [![project link](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/OSS_project-Puzzle)](https://github.com/hhhhhhhhhhhhhhhhho/OSS_project-Puzzle)
 
 ### 2020
-[C++] 게임 제작 클래스 설계와 디자인패턴에 대해 알게 되었습니다. [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)](https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)
+[C++ 게임제작] 문명 : 종의 기원 
+	게임 제작 클래스 설계와 디자인패턴에 대해 알게 되었습니다. [![project link](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)](https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)
+	
+[WebHacking] WebGoat 풀이
+	OWASP Top 10 취약점에 대해 공부하고, SQL Injection, 취약한 인증 등을 실습 했고. burpsuite 툴을 활용 할 수 있습니다. [![project link](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/WebHacking)](https://github.com/hhhhhhhhhhhhhhhhho/WebHacking)
+	
+[System Hacking] Overflow, Fuzzing .. systemhacking
+	Overflow 에 의한 권한 탈취를 공부했습니다. 
+	[![project link](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/SystemHacking)](https://github.com/hhhhhhhhhhhhhhhhho/SystemHacking)
+	
+[C++/Assembly] CPU 의 역할을 구현했습니다. Cache , PipeLine 구현 (c++) , MIPS Assembly 로 피보나치 수열을 구현했습니다. [![project link](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/Sejong_University/tree/master/Computer%20Architecture)](https://github.com/hhhhhhhhhhhhhhhhho/Sejong_University/tree/master/Computer%20Architecture)
+	
+
+[Python] 인공지능 비대면 시험 감독관 ISEEYOU
+
+비대면 시험 감독을 위한 프로그램을 개발했습니다. 시선추적, 음성인식 인공지능 활용 기능과 클립보드 제거, 프로세스 전환 감지등의 기능이 포함되었습니다. 
+팀 리더의 역할과 음성인식 ( 부정행위 판단 ) , 관리자용(교수,조교) 프로그램을 개발했습니다.
+	
+[![project link](http://img.shields.io/badge/-Project-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/ISEEYOU)](https://github.com/hhhhhhhhhhhhhhhhho/ISEEYOU)
+
+[![project link](http://img.shields.io/badge/-Hackerthon-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/2020-Sejong-Winter-Hackerthon)](https://github.com/hhhhhhhhhhhhhhhhho/2020-Sejong-Winter-Hackerthon)
+
 	
 ### 2021
 
+[Python] 인공지능과 인공지능 보안에 대해 공부했습니다. 
+논문출간 3회 
+[![project link](http://img.shields.io/badge/-Hackerthon-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/AI_AI-Security)](https://github.com/hhhhhhhhhhhhhhhhho/AI_AI-Security)
+	
+	
+	
 </div>
 </details>
 
