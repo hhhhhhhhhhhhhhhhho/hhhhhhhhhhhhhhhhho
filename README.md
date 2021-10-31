@@ -53,7 +53,6 @@ major
 </div>
 </details>
 
-
 <details>
 <summary> 🧑🏼‍💻Project </summary>
 <div markdown="1">       
@@ -67,7 +66,7 @@ major
     
     ### 2020
         - [C++] 게임 제작 클래스 설계와 디자인패턴에 대해 알게 되었습니다. 
-         [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)](https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)
+         [![Tech Blog Badge](http://img.shields.io/badge/black?style=flat square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)](https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)
     
     ### 2021
         -
