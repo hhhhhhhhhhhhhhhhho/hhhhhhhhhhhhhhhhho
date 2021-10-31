@@ -87,8 +87,14 @@ major
 ### 2021
 
 [Python] 인공지능과 인공지능 보안에 대해 공부했습니다. 
-논문출간 3회 
 [![project link](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/AI_AI-Security)](https://github.com/hhhhhhhhhhhhhhhhho/AI_AI-Security)
+	
+[2021 CISC 한국정보보호학술대회] [오디오 적대적 예제를 통한 결제시스템 공격사례 연구](https://github.com/hhhhhhhhhhhhhhhhho/AI_Hakcing/blob/master/2021%20CISC%20하계정보보호%20학술대회%20/오디오%20적대적%20예제를%20통한%20결제%20시스템%20공격%20사례%20연구_수정제출본.pdf)
+
+[제 2회 한국인공지능학술대회] [네트워크 플로우 데이터 기반 이상징후 탐지 인공지능 모델 성능 비교](https://github.com/hhhhhhhhhhhhhhhhho/AI_AI-Security/tree/master/AutoEncoder_Abnormal_Detecting)
+	
+[2021 CISC 동계 한국정보보호학술대회 ] [컨볼루션 오토인코더를 활용한 이미지 적대적 공격 방어 기법 연구(https://github.com/hhhhhhhhhhhhhhhhho/AI_Hakcing/blob/master/2021%20CISC%20동계%20정보보호학술대회/동계정보보호학술대회_컨볼루션오토인코더를활용한이미지적대적공격방어.pdf)
+
 	
 	
 	
