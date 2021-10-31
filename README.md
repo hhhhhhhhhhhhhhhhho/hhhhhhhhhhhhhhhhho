@@ -54,7 +54,7 @@ major
 
 <details>
 <summary> 🧑🏼‍💻Project </summary>
-<div markdown="1">       
+<div markdown="2">       
     
     ### 2019
         - WebHacking Project
