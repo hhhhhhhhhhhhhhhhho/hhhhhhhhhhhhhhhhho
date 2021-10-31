@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m interested in AI Hacking ( Security of AI ) , Computer Vision, Information Security ( AI of Security ) 
+🌱 I’m interested in GAN, AI Hacking ( Security of AI ), Information Security ( AI of Security ) 
 
+<div align=center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhhhhhhhhhhhhhhhho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=lamborghini.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
 <details>
 <summary> 🏆 Award / Certificate </summary>
@@ -51,6 +53,27 @@ major
 </div>
 </details>
 
+
+<details>
+<summary> 🧑🏼‍💻Project </summary>
+<div markdown="1">       
+    
+    ### 2019
+        - WebHacking Project
+            -Wargame 
+    
+        - 2019 세종대학교 해커톤
+            * 
+    
+    ### 2020
+        - [C++] 게임 제작 클래스 설계와 디자인패턴에 대해 알게 되었습니다. 
+         [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)](https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)
+    
+    ### 2021
+        -
+    
+</div>
+</details>
 
 <!--
 **hhhhhhhhhhhhhhhhho/hhhhhhhhhhhhhhhhho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
