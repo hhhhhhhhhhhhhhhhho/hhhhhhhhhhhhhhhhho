@@ -88,7 +88,7 @@ major
 
 [Python] 인공지능과 인공지능 보안에 대해 공부했습니다. 
 논문출간 3회 
-[![project link](http://img.shields.io/badge/-Hackerthon-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/AI_AI-Security)](https://github.com/hhhhhhhhhhhhhhhhho/AI_AI-Security)
+[![project link](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/AI_AI-Security)](https://github.com/hhhhhhhhhhhhhhhhho/AI_AI-Security)
 	
 	
 	
