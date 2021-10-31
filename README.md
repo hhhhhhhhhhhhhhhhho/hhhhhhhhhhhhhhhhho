@@ -93,7 +93,7 @@ major
 
 [제 2회 한국인공지능학술대회] [네트워크 플로우 데이터 기반 이상징후 탐지 인공지능 모델 성능 비교](https://github.com/hhhhhhhhhhhhhhhhho/AI_AI-Security/tree/master/AutoEncoder_Abnormal_Detecting)
 	
-[2021 CISC 동계 한국정보보호학술대회 ] [컨볼루션 오토인코더를 활용한 이미지 적대적 공격 방어 기법 연구(https://github.com/hhhhhhhhhhhhhhhhho/AI_Hakcing/blob/master/2021%20CISC%20동계%20정보보호학술대회/동계정보보호학술대회_컨볼루션오토인코더를활용한이미지적대적공격방어.pdf)
+[2021 CISC 동계 한국정보보호학술대회 ] [컨볼루션 오토인코더를 활용한 이미지 적대적 공격 방어 기법 연구](https://github.com/hhhhhhhhhhhhhhhhho/AI_Hakcing/blob/master/2021%20CISC%20동계%20정보보호학술대회/동계정보보호학술대회_컨볼루션오토인코더를활용한이미지적대적공격방어.pdf)
 
 	
 	
