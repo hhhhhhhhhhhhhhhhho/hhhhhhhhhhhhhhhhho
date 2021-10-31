@@ -54,22 +54,22 @@ major
 
 <details>
 <summary> 🧑🏼‍💻Project </summary>
-<div markdown="2">       
+<div markdown="1">       
     
-    ### 2019
-        - WebHacking Project
-            -Wargame 
-    
-        - 2019 세종대학교 해커톤
-            * 
-    
-    ### 2020
-        - [C++] 게임 제작 클래스 설계와 디자인패턴에 대해 알게 되었습니다. 
-         [![Tech Blog Badge](http://img.shields.io/badge/black?style=flat square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)](https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)
-    
-    ### 2021
-        -
-    
+### 2019
+    - WebHacking Project
+        -Wargame 
+
+    - 2019 세종대학교 해커톤
+        * 
+
+### 2020
+    - [C++] 게임 제작 클래스 설계와 디자인패턴에 대해 알게 되었습니다. 
+     [![Tech Blog Badge](http://img.shields.io/badge/black?style=flat square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)](https://github.com/hhhhhhhhhhhhhhhhho/Hanpotamia)
+
+### 2021
+    -
+
 </div>
 </details>
 
