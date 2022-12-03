@@ -1,6 +1,12 @@
-### Hi there 👋
+### 박태정
+
+😄 새로운 가치를 발견하고, 만들어내는 것에 큰 기쁨을 느낍니다. 
+
+
 
 🌱 I’m interested in GAN, AI Hacking ( Security of AI ), Information Security ( AI of Security ) 
+
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhhhhhhhhhhhhhhhho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=lamborghini.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -102,6 +108,11 @@ major
 </details>
 
 
+
+<div align="center">
+	<a href="https://h17.notion.site">
+	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white" />
+</div>
 	
 
 
