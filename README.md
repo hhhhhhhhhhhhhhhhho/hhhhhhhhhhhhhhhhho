@@ -107,12 +107,13 @@ major
 
 
 
-<div align="center"> 생각은 블로그에, 이력은 노션에 정리합니다. 
+<div align="center"> 
+	생각은 블로그에, 이력은 노션에 정리합니다. 
 	<a href="https://h17.notion.site">
 	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white" />
 	
 	<a href="proggg.tistory.com">
-	<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=Tistory&logoColor=white" />	
+	<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>	
 	
 </div>
 	
