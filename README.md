@@ -109,9 +109,7 @@ major
 <div align="center"> 
 
 	<a href="https://h17.notion.site">
-	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white" />
-	
-
+	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white"/>
 	
 </div>
 	
