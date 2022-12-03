@@ -62,9 +62,7 @@ major
 <summary> 🧑🏼‍💻Project </summary>
 <div markdown="1">       
     
-### 2019
-[JAVA, 오픈소스 프로젝트] 퍼즐게임 어플 만들기 
-안드로이드 스튜디오로 앱을 만들며 오픈소스와 git 사용법에 대해서 알게되었습니다. [![project link](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hhhhhhhhhhhhhhhhho/OSS_project-Puzzle)](https://github.com/hhhhhhhhhhhhhhhhho/OSS_project-Puzzle)
+
 
 ### 2020
 [C++ 게임제작] 문명 : 종의 기원 
@@ -109,9 +107,13 @@ major
 
 
 
-<div align="center">
+<div align="center"> 생각은 블로그에, 이력은 노션에 정리합니다. 
 	<a href="https://h17.notion.site">
 	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white" />
+	
+	<a href="proggg.tistory.com">
+	<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=Tistory&logoColor=white" />	
+	
 </div>
 	
 
