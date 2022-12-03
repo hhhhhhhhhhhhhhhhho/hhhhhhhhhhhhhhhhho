@@ -105,21 +105,21 @@ major
 </details>
 
 
-
-
-<div align="center"> 
-
-	<a href="https://h17.notion.site">
-		<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white"/>
-	</a>
-	
-	<a href="https://proggg.tistory.com">
-		<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/>
-	</a>
-	<br>
-	
+<div align=center>
+	<p> 블로그와 노션에는 이력과 생각을 담아두었습니다. </p>
 </div>
+<div align=center>
+	<a href="https://h17.notion.site">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+	</a>
+	<a href="https://proggg.tistory.com">
+		<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white" />
+	</a>
 	
+	<br>
+</div>
+
+
 
 
 
