@@ -3,7 +3,7 @@
 😄 새로운 가치를 발견하고, 만들어내는 것에 큰 기쁨을 느낍니다. 
 
 
-🌱 I’m interested in GAN, AI Hacking ( Security of AI ), Information Security ( AI of Security ) 
+🌱 I’m interested in security, vision, data science
 
 
 
