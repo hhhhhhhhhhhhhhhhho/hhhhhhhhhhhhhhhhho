@@ -106,7 +106,7 @@ major
 
 
 <div align=center>
-	<p> 🥂블로그와 노션에는 이력과 경험, 생각을 담아두었습니다.🥂 </p>
+	
 </div>
 <div align=center>
 	<a href="https://h17.notion.site">
