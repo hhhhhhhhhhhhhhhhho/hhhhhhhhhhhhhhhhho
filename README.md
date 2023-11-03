@@ -55,10 +55,6 @@
 	<a href="https://h17.notion.site">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 	</a>
-	<a href="https://proggg.tistory.com">
-		<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white" />
-	</a>
-	
 
 </div>
 
