@@ -1,6 +1,4 @@
-<center>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=man2719)](https://solved.ac/man2719/)
-</center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=man2719)](https://solved.ac/man2719/)
 
 <details>
 <summary> 🧑🏼‍💻Project </summary>
