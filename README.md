@@ -56,7 +56,7 @@
 	<a href="https://h17.notion.site">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 	</a>
-에서 박태정에 관한 더 많은 이야기들을 들어주세요.
+에서 박태정에 관한 이야기들을 들을 수 있습니다.
 </div> 
 
 
