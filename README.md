@@ -39,7 +39,9 @@
 	
 [2021 CISC 동계 한국정보보호학술대회 ] [Published] [컨볼루션 오토인코더를 활용한 이미지 적대적 공격 방어 기법 연구](https://github.com/hhhhhhhhhhhhhhhhho/AI_Hakcing/blob/master/2021%20CISC%20동계%20정보보호학술대회/동계정보보호학술대회_컨볼루션오토인코더를활용한이미지적대적공격방어.pdf)
 
-	
+
+
+ 노션에서 박태정에 관한 더 많은 이야기들을 들어주세요.
 	
 	
 </div>
