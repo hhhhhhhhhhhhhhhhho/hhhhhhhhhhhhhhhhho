@@ -47,7 +47,7 @@
 </div>
 </details>
 
-노션에서 박태정에 관한 더 많은 이야기들을 들어주세요.
+
 
 <div align=center>
 	
@@ -56,8 +56,8 @@
 	<a href="https://h17.notion.site">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 	</a>
-
-</div>
+에서 박태정에 관한 더 많은 이야기들을 들어주세요.
+</div> 
 
 
 
